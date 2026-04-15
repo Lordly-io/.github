@@ -1,4 +1,6 @@
-# 👑 Lordly
+<div align="center">
+  <img src="https://github.com/Lordly-io/lordly/blob/main/assets/lordly-logo.svg" alt="Lordly Icon" />
+</div>
 
 ### Intelligence infrastructure for modern businesses
 
