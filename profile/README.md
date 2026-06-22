@@ -10,7 +10,7 @@ We help digital businesses discover where they're losing sales — and which act
 
 <p align="center">
   <a href="https://lordly.io">Website</a> •
-  <a href="https://app.lordly.io">Platform</a> •
+  <a href="#">Platform - Soon</a> •
   <a href="https://chat.lordly.io">ChatAI</a> •
   <a href="https://status.lordly.io">Status</a> •
   <a href="https://github.com/lordly-io/lordly">Public overview</a>
