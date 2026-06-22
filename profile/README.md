@@ -69,7 +69,7 @@ lOrdly shows where to act first.
 
 ## Contact
 
-contact@lordly.io
+contato@lordly.io
 
 ---
 
