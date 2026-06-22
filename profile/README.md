@@ -46,7 +46,7 @@ Not a dashboard. A decision.
 
 ## What we build
 
-- **[app.lordly.io](https://app.lordly.io)** — Decision Intelligence platform for CEOs and growth managers of Brazilian digital businesses
+- **[soon](#)** — Decision Intelligence platform for CEOs and growth managers of Brazilian digital businesses
 - **[chat.lordly.io](https://chat.lordly.io)** — ChatAI focused on marketing and business growth in Brazilian context
 - **lOrdlyOS** *(future)* — Internal intelligence OS: agents, workflows, organizational memory
 
