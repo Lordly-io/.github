@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Lordly-io/lordly/blob/main/assets/icon-lordly.svg" alt="Lordly Icon" />
+  <img src="https://github.com/Lordly-io/lordly/blob/main/assets/icon-lordly.svg](https://avatars.githubusercontent.com/u/222721347?s=200&v=4" alt="Lordly Icon" />
 </div>
 
 # Lordly
