@@ -1,78 +1,62 @@
 <div align="center">
-  <img src="https://github.com/Lordly-io/lordly/blob/main/assets/icon-lordly.svg](https://avatars.githubusercontent.com/u/222721347?s=200&v=4" alt="Lordly Icon" />
+  <img src="https://avatars.githubusercontent.com/u/222721347?s=200&v=4" alt="lOrdly" width="80" />
 </div>
 
-# Lordly
+# lOrdly
 
-### Intelligence infrastructure for modern businesses
+### Decision Intelligence as a Service
 
-We build systems that turn data into clarity, decisions, and execution.
+We help digital businesses discover where they're losing sales — and which action to prioritize first.
 
 <p align="center">
   <a href="https://lordly.io">Website</a> •
+  <a href="https://app.lordly.io">Platform</a> •
+  <a href="https://chat.lordly.io">ChatAI</a> •
   <a href="https://status.lordly.io">Status</a> •
-  <a href="#">Docs *(coming soon)*</a> •
-  <a href="#">Developers *(coming soon)*</a> •
   <a href="https://github.com/lordly-io/lordly">Public overview</a>
 </p>
 
 ---
 
-## A new layer for business
+## The problem
 
-Most companies have data.
+Executives have data.
 
-Few have clarity.
+Most can't act on it.
 
-Lordly exists to bridge that gap.
+GA4, Search Console, social signals — all connected, none interpreted.
 
-We connect signals, context, and intelligence into a single layer that helps businesses understand what is happening, why it matters, and what to do next.
+The result: decisions made on instinct, budgets wasted, growth stalled.
 
 ---
 
-## What we are building
+## The answer
 
-A modular platform designed to evolve with modern companies:
+lOrdly does what a senior strategy consultant does:
 
-- data intelligence  
-- automated insights  
-- strategic direction  
-- execution systems  
-- developer ecosystem *(coming soon)*  
+- reads all the data  
+- finds the real problem  
+- quantifies the financial impact  
+- benchmarks against competitors  
+- produces an execution plan  
+
+Not a dashboard. A decision.
+
+---
+
+## What we build
+
+- **[app.lordly.io](https://app.lordly.io)** — Decision Intelligence platform for CEOs and growth managers of Brazilian digital businesses
+- **[chat.lordly.io](https://chat.lordly.io)** — ChatAI focused on marketing and business growth in Brazilian context
+- **lOrdlyOS** *(future)* — Internal intelligence OS: agents, workflows, organizational memory
 
 ---
 
 ## Philosophy
 
-Data is not enough.  
+BI shows what happened.
 
-Dashboards are not enough.  
-
-Visibility is not enough.  
-
-Companies need systems that think, guide, and adapt.
-
----
-
-## Direction
-
-We are building more than a product.
-
-We are building infrastructure for:
-
-- decision-making  
-- operational clarity  
-- scalable intelligence  
-- future business systems  
-
----
-
-## Access
-
-- 🌐 https://lordly.io  
-- 📊 https://status.lordly.io  
-- 📘 Docs *(coming soon)*  
-- 🧠 Developers *(coming soon)*  
+lOrdly shows where to act first.
 
 ---
 
@@ -85,11 +69,9 @@ We are building infrastructure for:
 
 ## Contact
 
-contato@lordly.io
+contact@lordly.io
 
 ---
-
-## Closing
 
 Not software.
 
